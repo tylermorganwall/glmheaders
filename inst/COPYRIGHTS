@@ -1,0 +1,11 @@
+Files: include/glm/*
+Copyright: 2005-2024 G-Truc Creation
+License: MIT (selected from the upstream MIT / Happy Bunny dual license)
+License text: COPYING
+URL: https://github.com/g-truc/glm
+Version: 1.0.1
+Revision: 0af55ccecd98d4e5a8d1fad7de25ba429d60e863
+
+Files: R package metadata, documentation, and tests
+Copyright: 2026 Tyler Morgan-Wall
+License: MIT

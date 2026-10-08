@@ -1,0 +1,23 @@
+Package: glmheaders
+Type: Package
+Title: 'OpenGL Mathematics' C++ Headers
+Version: 1.0.1-1
+Authors@R: c(
+    person("Tyler", "Morgan-Wall", email = "tylermw@gmail.com",
+        role = c("aut", "cre"),
+        comment = c(ORCID = "0000-0002-3131-3814")),
+    person("G-Truc Creation", role = c("aut", "cph"),
+        comment = "GLM library"))
+Description: Provides the header-only 'OpenGL Mathematics' ('GLM') library
+    for use by other R packages. Includes vector and matrix types, geometric
+    transformations, quaternions, and mathematical functions following the
+    conventions of the 'OpenGL Shading Language'. An OpenGL installation is
+    not required. Packages using these headers should list 'glmheaders' in
+    their 'LinkingTo' field. The upstream library is available at
+    <https://github.com/g-truc/glm>.
+License: MIT + file LICENSE
+Copyright: file inst/COPYRIGHTS
+URL: https://github.com/g-truc/glm
+Suggests: Rcpp
+Encoding: UTF-8
+NeedsCompilation: no
