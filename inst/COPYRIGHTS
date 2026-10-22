@@ -9,3 +9,11 @@ Revision: 0af55ccecd98d4e5a8d1fad7de25ba429d60e863
 Files: R package metadata, documentation, and tests
 Copyright: 2026 Tyler Morgan-Wall
 License: MIT
+
+ Files: include/glm/ext/scalar_ulp.inl
+/// Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+///
+/// Developed at SunPro, a Sun Microsystems, Inc. business.
+/// Permission to use, copy, modify, and distribute this
+/// software is freely granted, provided that this notice
+/// is preserved. 
